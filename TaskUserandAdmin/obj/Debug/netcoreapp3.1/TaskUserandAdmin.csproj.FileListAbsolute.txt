@@ -1,0 +1,14 @@
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.exe
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.deps.json
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.runtimeconfig.json
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.runtimeconfig.dev.json
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.dll
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\bin\Debug\netcoreapp3.1\TaskUserandAdmin.pdb
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.csproj.AssemblyReference.cache
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.AssemblyInfoInputs.cache
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.AssemblyInfo.cs
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.csproj.CoreCompileInputs.cache
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.dll
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.pdb
+D:\This PC\TaskUserandAdmin\TaskUserandAdmin\obj\Debug\netcoreapp3.1\TaskUserandAdmin.genruntimeconfig.cache
